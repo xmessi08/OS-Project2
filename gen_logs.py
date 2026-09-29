@@ -1,6 +1,3 @@
-#!/usr/bin/env python3
-"""Генератор исходных данных для ПР-2: каталог data/ с 50 журналами.
-Запуск: python3 gen_logs.py   (результат детерминирован, seed=2026)"""
 import random
 from datetime import datetime, timedelta
 from pathlib import Path
